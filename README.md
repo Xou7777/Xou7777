@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Felix
 
-<!--
-**Xou7777/Xou7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats:
+![Lalas github stats](https://github-readme-stats.vercel.app/api?username=xou7777&theme=radical&show_icons=true&count_private=true)
+  
+ 
+![Lalas Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xou7777&theme=solarized_dark)
+![Lalas Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xou7777&theme=solarized_dark)
+![Lala Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xou7777&theme=solarized_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
