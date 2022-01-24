@@ -1,4 +1,4 @@
-### Hi there, I'm Felix aka Xou, but please just call me Felix
+### Hi, I'm Felix aka Xou
 
 ---
 
