@@ -3,7 +3,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Lalas github stats](https://github-readme-stats.vercel.app/api?username=xou7777&theme=solarized_dark&show_icons=true&count_private=true)
+![Lalas github stats](https://github-readme-stats.vercel.app/api?username=xou7777&theme=monokai&show_icons=true&count_private=true)
   
  
 ![Lalas Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xou7777&theme=solarized_dark)
